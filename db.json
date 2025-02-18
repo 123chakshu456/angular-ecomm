@@ -1,0 +1,156 @@
+{
+  "seller": [
+    {
+      "id": "988b",
+      "name": "Chakshu Goyal",
+      "email": "123chakshu456@gmail.com",
+      "password": "abc@123"
+    },
+    {
+      "id": "80ca",
+      "name": "Harsh Goyal",
+      "email": "123harsh456@gmail.com",
+      "password": "Harsh@123"
+    },
+    {
+      "id": "3edd",
+      "name": "Nikhil",
+      "password": "abc@123",
+      "email": "chakshu.goyal@amadeus.com"
+    },
+    {
+      "id": "40c1",
+      "name": "lee",
+      "password": "abc@123",
+      "email": "lee@test.com"
+    },
+    {
+      "id": "cae8",
+      "name": "Chakshu",
+      "password": "abc@123",
+      "email": "123chakshu456@gmail.com"
+    },
+    {
+      "id": "da07",
+      "name": "",
+      "password": "",
+      "email": ""
+    },
+    {
+      "id": "a8ea",
+      "email": "",
+      "password": ""
+    }
+  ],
+  "products": [
+    {
+      "name": "iphone 14",
+      "price": "100000",
+      "color": "black",
+      "category": "mobiles",
+      "description": "Heaven phone",
+      "image": "https://iplanet.one/cdn/shop/files/iPhone_14_Purple_PDP_Image_Position-1A__WWEN.jpg?v=1691142418",
+      "id": "7c4e"
+    },
+    {
+      "name": "MI",
+      "price": "2222",
+      "color": "blueviolet",
+      "category": "Smartphone",
+      "description": "Ultra pro max",
+      "image": "https://iplanet.one/cdn/shop/files/iPhone_14_Purple_PDP_Image_Position-1A__WWEN.jpg?v=1691142418",
+      "id": "3d11"
+    },
+    {
+      "name": "MI",
+      "price": "123443",
+      "color": "blueviolet",
+      "category": "smartphone",
+      "description": "gvdfsgdfsgdfgh",
+      "image": "https://iplanet.one/cdn/shop/files/iPhone_14_Purple_PDP_Image_Position-1A__WWEN.jpg?v=1691142418",
+      "id": "cac5"
+    },
+    {
+      "name": "Vivo",
+      "price": "2345235",
+      "color": "redd",
+      "category": "mobiles",
+      "description": "dfsgdfghdfghn",
+      "image": "https://iplanet.one/cdn/shop/files/51.png?v=1733392401",
+      "id": "3ba1"
+    },
+    {
+      "name": "Truck",
+      "price": "100000",
+      "color": "Pink",
+      "category": "Automobile",
+      "description": "Tata motor best trucks",
+      "image": "https://fleetnetamerica.com/wp-content/uploads/sites/2/2017/07/Semi-Truck-Fact-scaled.jpg",
+      "id": "eed9"
+    },
+    {
+      "id": "2455",
+      "name": "Keybaord",
+      "price": "2000",
+      "color": "Black",
+      "category": "Computers",
+      "description": "Red Gear Key boards",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/keyboard/desktop-keyboard/w/l/6/gaming-keyboard-with-87-keys-rgb-backlit-with-suspension-keys-original-imagzcgwtrabgjna.jpeg?q=20&crop=false"
+    },
+    {
+      "id": "c593",
+      "name": "Astronaut",
+      "price": "1000",
+      "color": "White",
+      "category": "Computers",
+      "description": "Accessories",
+      "image": "https://m.media-amazon.com/images/I/41dy5aqWslL._AC_UF1000,1000_QL80_.jpg"
+    }
+  ],
+  "users": [
+    {
+      "name": "Chakshu",
+      "email": "123chakshu456@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc@123",
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "name": "MI",
+      "price": "2222",
+      "color": "blueviolet",
+      "category": "Smartphone",
+      "description": "Ultra pro max",
+      "image": "https://iplanet.one/cdn/shop/files/iPhone_14_Purple_PDP_Image_Position-1A__WWEN.jpg?v=1691142418",
+      "quantity": 1,
+      "userId": 2,
+      "productId": "3d11",
+      "id": 1
+    }
+  ],
+  "orders": [
+    {
+      "email": "123chakshu456@gmail.com",
+      "address": "Bangalore, 202,#46, SR residency Prakurthi Urban ville panathur",
+      "contact": "07307067179",
+      "totalPrice": 2353557,
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "email": "123chakshu456@gmail.com",
+      "address": "Bangalore, 202,#46, SR residency Prakurthi Urban ville panathur",
+      "contact": "07307067179",
+      "totalPrice": 2353557,
+      "userId": 2,
+      "id": 4
+    }
+  ]
+}
